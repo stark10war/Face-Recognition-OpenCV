@@ -3,7 +3,7 @@
 # It reads  all the images in the directories and convert them to a numpy array with labels
 
 import os
-os.chdir('D:\\Python practice\\OpenCV practice project')
+#os.chdir('Replace with this folder path')
 import numpy as np
 import pandas as pd
 import cv2
