@@ -7,6 +7,6 @@
 
 3. Finally run the facedetection_video.py file to launch teh camera window to detect faces in realtime.
 
->>>> please Remember to change the working directory in all the scripts to the directory where the scripts as well as all the files are saved i.e the folder of the cloded repository<<<
+>>>> please Remember to change the working directory in all the scripts to the directory where the scripts as well as all the files are saved i.e the folder of the cloned repository <<<
 
 Thanks.   
